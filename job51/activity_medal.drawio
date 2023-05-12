@@ -1,1 +1,202 @@
-<mxfile host="drawio-plugin" modified="2023-05-12T06:36:28.035Z" agent="5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36" etag="yTkqFZWsCTnKzwLQXq01" version="20.5.3" type="embed"><diagram name="用户报名" id="PjRFzeqVxdwlIN-WW2m-"><mxGraphModel dx="1673" dy="1103" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0"><root><mxCell id="0"/><mxCell id="1" parent="0"/><mxCell id="fdkuDNpNpMmcPTPjz3AJ-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="fdkuDNpNpMmcPTPjz3AJ-2" edge="1"><mxGeometry relative="1" as="geometry"><mxPoint x="175" y="408.666748046875" as="targetPoint"/></mxGeometry></mxCell><mxCell id="fdkuDNpNpMmcPTPjz3AJ-2" value="&lt;font color=&quot;#000000&quot;&gt;用户报名&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1"><mxGeometry x="115" y="237" width="120" height="60" as="geometry"/></mxCell><mxCell id="fdkuDNpNpMmcPTPjz3AJ-3" value="&lt;font color=&quot;#000000&quot;&gt;活动1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1"><mxGeometry x="345" y="170" width="120" height="60" as="geometry"/></mxCell><mxCell id="fdkuDNpNpMmcPTPjz3AJ-4" value="&lt;font color=&quot;#000000&quot;&gt;活动2&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1"><mxGeometry x="514" y="170" width="120" height="60" as="geometry"/></mxCell><mxCell id="fdkuDNpNpMmcPTPjz3AJ-5" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#10739e;fillColor=#b1ddf0;" parent="1" vertex="1"><mxGeometry x="345" y="252" width="117" height="80" as="geometry"/></mxCell><mxCell id="fdkuDNpNpMmcPTPjz3AJ-6" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#000000;" parent="fdkuDNpNpMmcPTPjz3AJ-5" vertex="1"><mxGeometry width="117" height="40" as="geometry"/></mxCell><mxCell id="fdkuDNpNpMmcPTPjz3AJ-7" value="23年5月12日" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#000000;" parent="fdkuDNpNpMmcPTPjz3AJ-6" vertex="1"><mxGeometry width="117" height="40" as="geometry"><mxRectangle width="117" height="40" as="alternateBounds"/></mxGeometry></mxCell><mxCell id="fdkuDNpNpMmcPTPjz3AJ-8" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#000000;" parent="fdkuDNpNpMmcPTPjz3AJ-5" vertex="1"><mxGeometry y="40" width="117" height="40" as="geometry"/></mxCell><mxCell id="fdkuDNpNpMmcPTPjz3AJ-9" value="23年12月12日" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#000000;" parent="fdkuDNpNpMmcPTPjz3AJ-8" vertex="1"><mxGeometry width="117" height="40" as="geometry"><mxRectangle width="117" height="40" as="alternateBounds"/></mxGeometry></mxCell><mxCell id="fdkuDNpNpMmcPTPjz3AJ-10" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#10739e;fillColor=#b1ddf0;" parent="1" vertex="1"><mxGeometry x="517" y="248" width="117" height="80" as="geometry"/></mxCell><mxCell id="fdkuDNpNpMmcPTPjz3AJ-11" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#000000;" parent="fdkuDNpNpMmcPTPjz3AJ-10" vertex="1"><mxGeometry width="117" height="40" as="geometry"/></mxCell><mxCell id="fdkuDNpNpMmcPTPjz3AJ-12" value="23年6月12日" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#000000;" parent="fdkuDNpNpMmcPTPjz3AJ-11" vertex="1"><mxGeometry width="117" height="40" as="geometry"><mxRectangle width="117" height="40" as="alternateBounds"/></mxGeometry></mxCell><mxCell id="fdkuDNpNpMmcPTPjz3AJ-13" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#000000;" parent="fdkuDNpNpMmcPTPjz3AJ-10" vertex="1"><mxGeometry y="40" width="117" height="40" as="geometry"/></mxCell><mxCell id="fdkuDNpNpMmcPTPjz3AJ-14" value="24年01月12日" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#000000;" parent="fdkuDNpNpMmcPTPjz3AJ-13" vertex="1"><mxGeometry width="117" height="40" as="geometry"><mxRectangle width="117" height="40" as="alternateBounds"/></mxGeometry></mxCell><mxCell id="fdkuDNpNpMmcPTPjz3AJ-15" value="&lt;pre&gt;活动存在交叉&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="1" vertex="1"><mxGeometry x="432" y="341" width="90" height="50" as="geometry"/></mxCell><mxCell id="fdkuDNpNpMmcPTPjz3AJ-21" value="允许报名&lt;br&gt;并确定好活动时间段" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1"><mxGeometry x="424" y="409" width="120" height="60" as="geometry"/></mxCell><mxCell id="fdkuDNpNpMmcPTPjz3AJ-22" value="若上一个活动未结束&lt;br&gt;则不允许报名" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1"><mxGeometry x="264" y="555" width="120" height="60" as="geometry"/></mxCell><mxCell id="fdkuDNpNpMmcPTPjz3AJ-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fdkuDNpNpMmcPTPjz3AJ-25" target="fdkuDNpNpMmcPTPjz3AJ-21" edge="1"><mxGeometry relative="1" as="geometry"/></mxCell><mxCell id="fdkuDNpNpMmcPTPjz3AJ-30" value="已报名" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fdkuDNpNpMmcPTPjz3AJ-25" target="fdkuDNpNpMmcPTPjz3AJ-22" edge="1"><mxGeometry relative="1" as="geometry"/></mxCell><mxCell id="fdkuDNpNpMmcPTPjz3AJ-25" value="是否已经报名" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1"><mxGeometry x="284" y="399" width="80" height="80" as="geometry"/></mxCell><mxCell id="fdkuDNpNpMmcPTPjz3AJ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fdkuDNpNpMmcPTPjz3AJ-26" target="fdkuDNpNpMmcPTPjz3AJ-25" edge="1"><mxGeometry relative="1" as="geometry"/></mxCell><mxCell id="fdkuDNpNpMmcPTPjz3AJ-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fdkuDNpNpMmcPTPjz3AJ-26" target="fdkuDNpNpMmcPTPjz3AJ-33" edge="1"><mxGeometry relative="1" as="geometry"/></mxCell><mxCell id="fdkuDNpNpMmcPTPjz3AJ-26" value="&lt;font color=&quot;#000000&quot;&gt;参与同一个活动&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1"><mxGeometry x="115" y="409" width="120" height="60" as="geometry"/></mxCell><mxCell id="fdkuDNpNpMmcPTPjz3AJ-31" value="此活动时间段&lt;br&gt;影响着下一次报名时机" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1"><mxGeometry x="424" y="472" width="125" height="60" as="geometry"/></mxCell><mxCell id="fdkuDNpNpMmcPTPjz3AJ-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fdkuDNpNpMmcPTPjz3AJ-33" target="fdkuDNpNpMmcPTPjz3AJ-37" edge="1"><mxGeometry relative="1" as="geometry"/></mxCell><mxCell id="fdkuDNpNpMmcPTPjz3AJ-33" value="&lt;font color=&quot;#000000&quot;&gt;参与不同活动&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1"><mxGeometry x="115" y="732" width="120" height="60" as="geometry"/></mxCell><mxCell id="fdkuDNpNpMmcPTPjz3AJ-35" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1"><mxGeometry x="98" y="383" width="30" height="30" as="geometry"/></mxCell><mxCell id="fdkuDNpNpMmcPTPjz3AJ-36" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1"><mxGeometry x="98" y="705" width="30" height="30" as="geometry"/></mxCell><mxCell id="fdkuDNpNpMmcPTPjz3AJ-37" value="两个不同活动&lt;br&gt;应当互不影响" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1"><mxGeometry x="359" y="732" width="120" height="60" as="geometry"/></mxCell><mxCell id="fdkuDNpNpMmcPTPjz3AJ-39" value="活动id,默认应当&lt;br&gt;由前端传递&lt;br&gt;当前端未传递时,&lt;br&gt;后端读取默认值" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1"><mxGeometry x="112.5" y="810" width="125" height="74" as="geometry"/></mxCell></root></mxGraphModel></diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-05-12T07:44:21.867Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="J9DbQOHy-GdS2nAKoxZY" version="21.2.9" type="github" pages="2">
+  <diagram name="用户报名" id="PjRFzeqVxdwlIN-WW2m-">
+    <mxGraphModel dx="2074" dy="1124" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fdkuDNpNpMmcPTPjz3AJ-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="fdkuDNpNpMmcPTPjz3AJ-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="175" y="408.666748046875" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fdkuDNpNpMmcPTPjz3AJ-2" value="&lt;font color=&quot;#000000&quot;&gt;用户报名&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="115" y="237" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fdkuDNpNpMmcPTPjz3AJ-3" value="&lt;font color=&quot;#000000&quot;&gt;活动1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="345" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fdkuDNpNpMmcPTPjz3AJ-4" value="&lt;font color=&quot;#000000&quot;&gt;活动2&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="514" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fdkuDNpNpMmcPTPjz3AJ-5" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#10739e;fillColor=#b1ddf0;" parent="1" vertex="1">
+          <mxGeometry x="345" y="252" width="117" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fdkuDNpNpMmcPTPjz3AJ-6" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#000000;" parent="fdkuDNpNpMmcPTPjz3AJ-5" vertex="1">
+          <mxGeometry width="117" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fdkuDNpNpMmcPTPjz3AJ-7" value="23年5月12日" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#000000;" parent="fdkuDNpNpMmcPTPjz3AJ-6" vertex="1">
+          <mxGeometry width="117" height="40" as="geometry">
+            <mxRectangle width="117" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fdkuDNpNpMmcPTPjz3AJ-8" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#000000;" parent="fdkuDNpNpMmcPTPjz3AJ-5" vertex="1">
+          <mxGeometry y="40" width="117" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fdkuDNpNpMmcPTPjz3AJ-9" value="23年12月12日" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#000000;" parent="fdkuDNpNpMmcPTPjz3AJ-8" vertex="1">
+          <mxGeometry width="117" height="40" as="geometry">
+            <mxRectangle width="117" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fdkuDNpNpMmcPTPjz3AJ-10" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#10739e;fillColor=#b1ddf0;" parent="1" vertex="1">
+          <mxGeometry x="517" y="248" width="117" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fdkuDNpNpMmcPTPjz3AJ-11" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#000000;" parent="fdkuDNpNpMmcPTPjz3AJ-10" vertex="1">
+          <mxGeometry width="117" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fdkuDNpNpMmcPTPjz3AJ-12" value="23年6月12日" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#000000;" parent="fdkuDNpNpMmcPTPjz3AJ-11" vertex="1">
+          <mxGeometry width="117" height="40" as="geometry">
+            <mxRectangle width="117" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fdkuDNpNpMmcPTPjz3AJ-13" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#000000;" parent="fdkuDNpNpMmcPTPjz3AJ-10" vertex="1">
+          <mxGeometry y="40" width="117" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fdkuDNpNpMmcPTPjz3AJ-14" value="24年01月12日" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#000000;" parent="fdkuDNpNpMmcPTPjz3AJ-13" vertex="1">
+          <mxGeometry width="117" height="40" as="geometry">
+            <mxRectangle width="117" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fdkuDNpNpMmcPTPjz3AJ-15" value="&lt;pre&gt;活动存在交叉&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="432" y="341" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fdkuDNpNpMmcPTPjz3AJ-21" value="允许报名&lt;br&gt;并确定好活动时间段" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="424" y="409" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fdkuDNpNpMmcPTPjz3AJ-22" value="若上一个活动未结束&lt;br&gt;则不允许报名" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="264" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fdkuDNpNpMmcPTPjz3AJ-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fdkuDNpNpMmcPTPjz3AJ-25" target="fdkuDNpNpMmcPTPjz3AJ-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fdkuDNpNpMmcPTPjz3AJ-30" value="已报名" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fdkuDNpNpMmcPTPjz3AJ-25" target="fdkuDNpNpMmcPTPjz3AJ-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fdkuDNpNpMmcPTPjz3AJ-25" value="是否已经报名" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1">
+          <mxGeometry x="284" y="399" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fdkuDNpNpMmcPTPjz3AJ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fdkuDNpNpMmcPTPjz3AJ-26" target="fdkuDNpNpMmcPTPjz3AJ-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fdkuDNpNpMmcPTPjz3AJ-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fdkuDNpNpMmcPTPjz3AJ-26" target="fdkuDNpNpMmcPTPjz3AJ-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fdkuDNpNpMmcPTPjz3AJ-26" value="&lt;font color=&quot;#000000&quot;&gt;参与同一个活动&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="115" y="409" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fdkuDNpNpMmcPTPjz3AJ-31" value="此活动时间段&lt;br&gt;影响着下一次报名时机" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
+          <mxGeometry x="424" y="472" width="125" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fdkuDNpNpMmcPTPjz3AJ-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fdkuDNpNpMmcPTPjz3AJ-33" target="fdkuDNpNpMmcPTPjz3AJ-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fdkuDNpNpMmcPTPjz3AJ-33" value="&lt;font color=&quot;#000000&quot;&gt;参与不同活动&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="115" y="732" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fdkuDNpNpMmcPTPjz3AJ-35" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="98" y="383" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fdkuDNpNpMmcPTPjz3AJ-36" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="98" y="705" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fdkuDNpNpMmcPTPjz3AJ-37" value="两个不同活动&lt;br&gt;应当互不影响" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="359" y="732" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fdkuDNpNpMmcPTPjz3AJ-39" value="活动id,默认应当&lt;br&gt;由前端传递&lt;br&gt;当前端未传递时,&lt;br&gt;后端读取默认值" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
+          <mxGeometry x="112.5" y="810" width="125" height="74" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="BNeZtJhtD4iWIcSTAg1e" name="累加任务">
+    <mxGraphModel dx="1274" dy="-76" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wwfU5sJ75xy1L22vlcD1-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gEssE4lhHMFTCRIwiI5t-1" target="wwfU5sJ75xy1L22vlcD1-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gEssE4lhHMFTCRIwiI5t-1" value="勋章单任务 完成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1107" y="1430" width="138" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wwfU5sJ75xy1L22vlcD1-1" value="勋章单任务:特指&lt;br&gt;如用户完成了一次电话沟通,职位发布等&lt;br&gt;任务中的一个,需要进行累加" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="1002" y="1502" width="245" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wwfU5sJ75xy1L22vlcD1-3" value="其他服务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1147" y="1331" width="66" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="wwfU5sJ75xy1L22vlcD1-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wwfU5sJ75xy1L22vlcD1-4" target="wwfU5sJ75xy1L22vlcD1-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wwfU5sJ75xy1L22vlcD1-4" value="1.幂等性校验" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1685" y="1430" width="138" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wwfU5sJ75xy1L22vlcD1-5" value="勋章服务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1546" y="1336" width="66" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="wwfU5sJ75xy1L22vlcD1-7" value="幂等性" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1356" y="1399" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="wwfU5sJ75xy1L22vlcD1-9" value="部分信息最初来源为mq,要防止消息重复投递" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1343" y="1336" width="142" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="wwfU5sJ75xy1L22vlcD1-10" value="接口入参&lt;br&gt;1.用户信息(ctmid,hruid)&lt;br&gt;2.幂等id&lt;br&gt;3.任务id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1294" y="1496" width="221" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="wwfU5sJ75xy1L22vlcD1-11" value="2.根据当前时间和&lt;br&gt;用户信息,查询出所有用户参与的报名活动" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1641" y="1576" width="226" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="wwfU5sJ75xy1L22vlcD1-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wwfU5sJ75xy1L22vlcD1-13" target="wwfU5sJ75xy1L22vlcD1-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wwfU5sJ75xy1L22vlcD1-13" value="我们假设用户&lt;br&gt;只报名了一个活动,&lt;br&gt;则不会有多个任务的冲突" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1647.5" y="1653" width="213" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wwfU5sJ75xy1L22vlcD1-14" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1618" y="1650" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wwfU5sJ75xy1L22vlcD1-15" value="当前做法是通过redis&lt;br&gt;保存幂等id来校验" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1827" y="1428" width="138" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wwfU5sJ75xy1L22vlcD1-18" value="前提:&lt;br&gt;当前时间段,只有一个报名;&lt;br&gt;只需要累加一个任务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1445" y="1797" width="226" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="wwfU5sJ75xy1L22vlcD1-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wwfU5sJ75xy1L22vlcD1-19" target="wwfU5sJ75xy1L22vlcD1-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wwfU5sJ75xy1L22vlcD1-19" value="3.校验此用户是否已经完成了任务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1685" y="1798" width="138" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wwfU5sJ75xy1L22vlcD1-21" value="通过db检查当前用户是否&lt;br&gt;已经完成最终任务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1832" y="1793.5" width="203" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="wwfU5sJ75xy1L22vlcD1-22" value="任务是有边界的,&lt;br&gt;当达到边界时,不再累加" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1832" y="1865" width="203" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="wwfU5sJ75xy1L22vlcD1-23" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1827" y="1761" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wwfU5sJ75xy1L22vlcD1-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wwfU5sJ75xy1L22vlcD1-24" target="wwfU5sJ75xy1L22vlcD1-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wwfU5sJ75xy1L22vlcD1-24" value="4.在数据库中累加此任务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1685" y="2008" width="138" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wwfU5sJ75xy1L22vlcD1-26" value="并将redis中,任务进度数,&lt;br&gt;失效时间置为0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1832" y="2008" width="148" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wwfU5sJ75xy1L22vlcD1-27" value="5.校验此用户是否完成了勋章任务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1685" y="2188" width="138" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wwfU5sJ75xy1L22vlcD1-28" value="若完成了勋章任务&lt;br&gt;通知用户" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1833" y="2188" width="138" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wwfU5sJ75xy1L22vlcD1-29" value="埋点,用户获得了勋章" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1833" y="2259" width="138" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wwfU5sJ75xy1L22vlcD1-31" value="相应的获取进度的接口&lt;br&gt;应先从redis中获取" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="2112" y="2008" width="148" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
