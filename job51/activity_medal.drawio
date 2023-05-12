@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-12T07:44:21.867Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="J9DbQOHy-GdS2nAKoxZY" version="21.2.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-12T07:45:46.330Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="dZwuKc_qstMhHAKkiOSE" version="21.2.9" type="github" pages="2">
   <diagram name="用户报名" id="PjRFzeqVxdwlIN-WW2m-">
     <mxGraphModel dx="2074" dy="1124" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -131,7 +131,7 @@
           <mxGeometry x="1685" y="1430" width="138" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wwfU5sJ75xy1L22vlcD1-5" value="勋章服务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1546" y="1336" width="66" height="26" as="geometry" />
+          <mxGeometry x="1726" y="1345" width="66" height="26" as="geometry" />
         </mxCell>
         <mxCell id="wwfU5sJ75xy1L22vlcD1-7" value="幂等性" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1356" y="1399" width="120" height="35" as="geometry" />
@@ -181,6 +181,9 @@
         <mxCell id="wwfU5sJ75xy1L22vlcD1-24" value="4.在数据库中累加此任务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1685" y="2008" width="138" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="wwfU5sJ75xy1L22vlcD1-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wwfU5sJ75xy1L22vlcD1-26" target="wwfU5sJ75xy1L22vlcD1-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wwfU5sJ75xy1L22vlcD1-26" value="并将redis中,任务进度数,&lt;br&gt;失效时间置为0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1832" y="2008" width="148" height="60" as="geometry" />
         </mxCell>
@@ -193,8 +196,11 @@
         <mxCell id="wwfU5sJ75xy1L22vlcD1-29" value="埋点,用户获得了勋章" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1833" y="2259" width="138" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wwfU5sJ75xy1L22vlcD1-31" value="相应的获取进度的接口&lt;br&gt;应先从redis中获取" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="wwfU5sJ75xy1L22vlcD1-31" value="相应的获取进度的接口&lt;br&gt;应先从redis中获取" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="2112" y="2008" width="148" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wwfU5sJ75xy1L22vlcD1-33" value="返回值&lt;br&gt;当前的进度数" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1297" y="1629" width="221" height="108" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
