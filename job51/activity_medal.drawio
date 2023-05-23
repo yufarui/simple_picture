@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-12T07:45:46.330Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="dZwuKc_qstMhHAKkiOSE" version="21.2.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-23T08:26:32.108Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="_yLjuAZ8Y9cBVR7Bo_eP" version="21.2.9" type="github" pages="3">
   <diagram name="用户报名" id="PjRFzeqVxdwlIN-WW2m-">
-    <mxGraphModel dx="2074" dy="1124" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1068" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -108,99 +108,158 @@
     </mxGraphModel>
   </diagram>
   <diagram id="BNeZtJhtD4iWIcSTAg1e" name="累加任务">
-    <mxGraphModel dx="1274" dy="-76" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1274" dy="324" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="wwfU5sJ75xy1L22vlcD1-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gEssE4lhHMFTCRIwiI5t-1" target="wwfU5sJ75xy1L22vlcD1-4">
+        <mxCell id="wwfU5sJ75xy1L22vlcD1-5" value="勋章服务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1276" y="1339" width="66" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fesAtQzQEfeTvH7LqOBx-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wwfU5sJ75xy1L22vlcD1-11" target="wwfU5sJ75xy1L22vlcD1-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gEssE4lhHMFTCRIwiI5t-1" value="勋章单任务 完成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1107" y="1430" width="138" height="60" as="geometry" />
+        <mxCell id="wwfU5sJ75xy1L22vlcD1-11" value="1.根据当前时间和&lt;br&gt;用户信息,查询出所有用户参与的报名活动" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="1196" y="1422" width="226" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="wwfU5sJ75xy1L22vlcD1-1" value="勋章单任务:特指&lt;br&gt;如用户完成了一次电话沟通,职位发布等&lt;br&gt;任务中的一个,需要进行累加" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
-          <mxGeometry x="1002" y="1502" width="245" height="60" as="geometry" />
+        <mxCell id="wwfU5sJ75xy1L22vlcD1-13" value="我们假设用户&lt;br&gt;只报名了一个活动,&lt;br&gt;则不会有多个任务的冲突" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="1435" y="1422" width="213" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wwfU5sJ75xy1L22vlcD1-3" value="其他服务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1147" y="1331" width="66" height="26" as="geometry" />
+        <mxCell id="wwfU5sJ75xy1L22vlcD1-14" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="1427" y="1390" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wwfU5sJ75xy1L22vlcD1-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wwfU5sJ75xy1L22vlcD1-4" target="wwfU5sJ75xy1L22vlcD1-11">
+        <mxCell id="fesAtQzQEfeTvH7LqOBx-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wwfU5sJ75xy1L22vlcD1-24" target="fesAtQzQEfeTvH7LqOBx-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1309" y="1706.3333740234375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wwfU5sJ75xy1L22vlcD1-24" value="2.在数据库中累加此任务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="1240" y="1567" width="138" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wwfU5sJ75xy1L22vlcD1-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wwfU5sJ75xy1L22vlcD1-26" target="wwfU5sJ75xy1L22vlcD1-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wwfU5sJ75xy1L22vlcD1-4" value="1.幂等性校验" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1685" y="1430" width="138" height="60" as="geometry" />
+        <mxCell id="wwfU5sJ75xy1L22vlcD1-26" value="并将redis中,任务进度数,&lt;br&gt;失效时间置为0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="1387" y="1567" width="148" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wwfU5sJ75xy1L22vlcD1-5" value="勋章服务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1726" y="1345" width="66" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="wwfU5sJ75xy1L22vlcD1-7" value="幂等性" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1356" y="1399" width="120" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="wwfU5sJ75xy1L22vlcD1-9" value="部分信息最初来源为mq,要防止消息重复投递" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1343" y="1336" width="142" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="wwfU5sJ75xy1L22vlcD1-10" value="接口入参&lt;br&gt;1.用户信息(ctmid,hruid)&lt;br&gt;2.幂等id&lt;br&gt;3.任务id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1294" y="1496" width="221" height="108" as="geometry" />
-        </mxCell>
-        <mxCell id="wwfU5sJ75xy1L22vlcD1-11" value="2.根据当前时间和&lt;br&gt;用户信息,查询出所有用户参与的报名活动" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1641" y="1576" width="226" height="61" as="geometry" />
-        </mxCell>
-        <mxCell id="wwfU5sJ75xy1L22vlcD1-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wwfU5sJ75xy1L22vlcD1-13" target="wwfU5sJ75xy1L22vlcD1-19">
+        <mxCell id="fesAtQzQEfeTvH7LqOBx-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wwfU5sJ75xy1L22vlcD1-27" target="wwfU5sJ75xy1L22vlcD1-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wwfU5sJ75xy1L22vlcD1-13" value="我们假设用户&lt;br&gt;只报名了一个活动,&lt;br&gt;则不会有多个任务的冲突" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1647.5" y="1653" width="213" height="60" as="geometry" />
+        <mxCell id="wwfU5sJ75xy1L22vlcD1-27" value="3.校验此用户是否完成了勋章任务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="1240" y="1801" width="138" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wwfU5sJ75xy1L22vlcD1-14" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1618" y="1650" width="30" height="30" as="geometry" />
+        <mxCell id="wwfU5sJ75xy1L22vlcD1-28" value="4.若完成了勋章任务&lt;br&gt;通知用户" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="1240" y="1906" width="138" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wwfU5sJ75xy1L22vlcD1-15" value="当前做法是通过redis&lt;br&gt;保存幂等id来校验" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="1827" y="1428" width="138" height="60" as="geometry" />
+        <mxCell id="wwfU5sJ75xy1L22vlcD1-31" value="相应的获取进度的接口&lt;br&gt;应先从redis中获取" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="1600" y="1567" width="148" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wwfU5sJ75xy1L22vlcD1-18" value="前提:&lt;br&gt;当前时间段,只有一个报名;&lt;br&gt;只需要累加一个任务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1445" y="1797" width="226" height="61" as="geometry" />
-        </mxCell>
-        <mxCell id="wwfU5sJ75xy1L22vlcD1-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wwfU5sJ75xy1L22vlcD1-19" target="wwfU5sJ75xy1L22vlcD1-24">
+        <mxCell id="fesAtQzQEfeTvH7LqOBx-5" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fesAtQzQEfeTvH7LqOBx-3" target="fesAtQzQEfeTvH7LqOBx-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wwfU5sJ75xy1L22vlcD1-19" value="3.校验此用户是否已经完成了任务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1685" y="1798" width="138" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="wwfU5sJ75xy1L22vlcD1-21" value="通过db检查当前用户是否&lt;br&gt;已经完成最终任务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="1832" y="1793.5" width="203" height="68" as="geometry" />
-        </mxCell>
-        <mxCell id="wwfU5sJ75xy1L22vlcD1-22" value="任务是有边界的,&lt;br&gt;当达到边界时,不再累加" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1832" y="1865" width="203" height="68" as="geometry" />
-        </mxCell>
-        <mxCell id="wwfU5sJ75xy1L22vlcD1-23" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1827" y="1761" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="wwfU5sJ75xy1L22vlcD1-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wwfU5sJ75xy1L22vlcD1-24" target="wwfU5sJ75xy1L22vlcD1-27">
+        <mxCell id="fesAtQzQEfeTvH7LqOBx-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fesAtQzQEfeTvH7LqOBx-3" target="wwfU5sJ75xy1L22vlcD1-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wwfU5sJ75xy1L22vlcD1-24" value="4.在数据库中累加此任务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1685" y="2008" width="138" height="60" as="geometry" />
+        <mxCell id="fesAtQzQEfeTvH7LqOBx-3" value="校验此用户是否已经完成全部任务?" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="1245" y="1680" width="128" height="81" as="geometry" />
         </mxCell>
-        <mxCell id="wwfU5sJ75xy1L22vlcD1-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wwfU5sJ75xy1L22vlcD1-26" target="wwfU5sJ75xy1L22vlcD1-31">
+        <mxCell id="fesAtQzQEfeTvH7LqOBx-4" value="结束" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1457" y="1690.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mNPNFbaTIeMQx0HMWUgY-1" value="幂等性不再考虑" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1253" y="1374" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="YNVJK2HRaqT1m53wC3em-1" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="1376.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MX2099_4GffpfO0SpkBT-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MX2099_4GffpfO0SpkBT-2" target="MX2099_4GffpfO0SpkBT-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1731" y="928.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MX2099_4GffpfO0SpkBT-2" value="勋章单任务 完成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1238" y="898.5" width="138" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MX2099_4GffpfO0SpkBT-3" value="勋章单任务:特指&lt;br&gt;如用户完成了一次电话沟通,职位发布等&lt;br&gt;任务中的一个,需要进行累加" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="1133" y="970.5" width="245" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MX2099_4GffpfO0SpkBT-4" value="其他服务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1285" y="851" width="66" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="MX2099_4GffpfO0SpkBT-5" value="幂等性不再考虑" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1487" y="867.5" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="MX2099_4GffpfO0SpkBT-6" value="接口入参&lt;br&gt;1.用户信息(ctmid,hruid)&lt;br&gt;2.任务id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1425" y="964.5" width="221" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="MX2099_4GffpfO0SpkBT-7" value="返回值&lt;br&gt;当前的进度数" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1428" y="1097.5" width="221" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="MX2099_4GffpfO0SpkBT-8" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1455" y="868" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MX2099_4GffpfO0SpkBT-9" value="请求勋章服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1672" y="898.5" width="138" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="zAxzkuvT95g2XgFFKkeI" name="第 3 页">
+    <mxGraphModel dx="1274" dy="1868" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Gus_5HNPXq2jqHareDnR-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gus_5HNPXq2jqHareDnR-1" target="Gus_5HNPXq2jqHareDnR-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wwfU5sJ75xy1L22vlcD1-26" value="并将redis中,任务进度数,&lt;br&gt;失效时间置为0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="1832" y="2008" width="148" height="60" as="geometry" />
+        <mxCell id="Gus_5HNPXq2jqHareDnR-1" value="使用线程池-1扫描&lt;br&gt;64个库表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1113" y="-375" width="166" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wwfU5sJ75xy1L22vlcD1-27" value="5.校验此用户是否完成了勋章任务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1685" y="2188" width="138" height="60" as="geometry" />
+        <mxCell id="Gus_5HNPXq2jqHareDnR-2" value="&lt;div style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;线程池-1&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;activitySearchTableTask&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1119" y="-427" width="157" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="wwfU5sJ75xy1L22vlcD1-28" value="若完成了勋章任务&lt;br&gt;通知用户" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1833" y="2188" width="138" height="60" as="geometry" />
+        <mxCell id="Gus_5HNPXq2jqHareDnR-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gus_5HNPXq2jqHareDnR-7" target="Gus_5HNPXq2jqHareDnR-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wwfU5sJ75xy1L22vlcD1-29" value="埋点,用户获得了勋章" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1833" y="2259" width="138" height="60" as="geometry" />
+        <mxCell id="Gus_5HNPXq2jqHareDnR-7" value="每一个线程负责扫描&lt;br&gt;一个库表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1113" y="-195" width="166" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wwfU5sJ75xy1L22vlcD1-31" value="相应的获取进度的接口&lt;br&gt;应先从redis中获取" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="2112" y="2008" width="148" height="60" as="geometry" />
+        <mxCell id="Gus_5HNPXq2jqHareDnR-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gus_5HNPXq2jqHareDnR-9" target="Gus_5HNPXq2jqHareDnR-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wwfU5sJ75xy1L22vlcD1-33" value="返回值&lt;br&gt;当前的进度数" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1297" y="1629" width="221" height="108" as="geometry" />
+        <mxCell id="Gus_5HNPXq2jqHareDnR-9" value="1.从缓存中获取到&lt;br&gt;当前的查询的起始id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1356" y="-195" width="166" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gus_5HNPXq2jqHareDnR-11" value="&lt;div style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&lt;font color=&quot;#2b2b2b&quot;&gt;扫描的表&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&lt;font style=&quot;&quot; color=&quot;#2b2b2b&quot;&gt;t_activity_apply&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&lt;font style=&quot;&quot; color=&quot;#2b2b2b&quot;&gt;其id是单调递增的&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&lt;font style=&quot;&quot; color=&quot;#2b2b2b&quot;&gt;根据id进行分页查询&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1296" y="-396.5" width="197" height="103" as="geometry" />
+        </mxCell>
+        <mxCell id="Gus_5HNPXq2jqHareDnR-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Gus_5HNPXq2jqHareDnR-12" target="Gus_5HNPXq2jqHareDnR-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1439" y="16" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gus_5HNPXq2jqHareDnR-12" value="2.根据此id查询分页数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1356" y="-89" width="166" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gus_5HNPXq2jqHareDnR-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gus_5HNPXq2jqHareDnR-14" target="Gus_5HNPXq2jqHareDnR-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gus_5HNPXq2jqHareDnR-14" value="3.过滤数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1356" y="17" width="166" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gus_5HNPXq2jqHareDnR-15" value="3.1 是否在提醒的&lt;br&gt;时间周期内" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1179" y="-24.5" width="166" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gus_5HNPXq2jqHareDnR-16" value="3.2 是否还有未兑换&lt;br&gt;的勋章" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1179" y="58.5" width="166" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gus_5HNPXq2jqHareDnR-18" value="4.发送信息,&lt;br&gt;提醒用户" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1356" y="174" width="166" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gus_5HNPXq2jqHareDnR-20" value="发送信息&lt;br&gt;是由线程池-2发送" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1207" y="174" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gus_5HNPXq2jqHareDnR-21" value="&lt;div style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;线程池-2&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;JetBrains Mono, monospace&quot;&gt;activity_feign_notice_task&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1192" y="248" width="157" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
