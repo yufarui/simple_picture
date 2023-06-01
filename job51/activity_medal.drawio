@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-01T07:36:40.432Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="xRZSRswSx6XgEG3UoMBE" version="21.3.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-06-01T07:53:11.958Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="ylLeNXrypQ6QIsiv_adW" version="21.3.2" type="github" pages="3">
   <diagram name="用户报名" id="PjRFzeqVxdwlIN-WW2m-">
     <mxGraphModel dx="2074" dy="1124" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -108,7 +108,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="BNeZtJhtD4iWIcSTAg1e" name="累加任务">
-    <mxGraphModel dx="1274" dy="324" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1274" dy="-76" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -170,35 +170,6 @@
         </mxCell>
         <mxCell id="YNVJK2HRaqT1m53wC3em-1" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1259" y="1408.5" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="MX2099_4GffpfO0SpkBT-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MX2099_4GffpfO0SpkBT-2" target="MX2099_4GffpfO0SpkBT-9" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1731" y="928.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MX2099_4GffpfO0SpkBT-2" value="勋章单任务 完成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="1238" y="898.5" width="138" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MX2099_4GffpfO0SpkBT-3" value="勋章单任务:特指&lt;br&gt;如用户完成了一次电话沟通,职位发布等&lt;br&gt;任务中的一个,需要进行累加" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
-          <mxGeometry x="1133" y="970.5" width="245" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MX2099_4GffpfO0SpkBT-4" value="其他服务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1285" y="851" width="66" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="MX2099_4GffpfO0SpkBT-5" value="幂等性不再考虑" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="1487" y="867.5" width="120" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="MX2099_4GffpfO0SpkBT-6" value="接口入参&lt;br&gt;1.用户信息(ctmid,hruid)&lt;br&gt;2.任务id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="1425" y="964.5" width="221" height="108" as="geometry" />
-        </mxCell>
-        <mxCell id="MX2099_4GffpfO0SpkBT-7" value="返回值&lt;br&gt;当前的进度数" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="1428" y="1097.5" width="221" height="108" as="geometry" />
-        </mxCell>
-        <mxCell id="MX2099_4GffpfO0SpkBT-8" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="1455" y="868" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="MX2099_4GffpfO0SpkBT-9" value="请求勋章服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="1672" y="898.5" width="138" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3vKTkAUfN-OT69fxqIoS-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="3vKTkAUfN-OT69fxqIoS-1" edge="1">
           <mxGeometry relative="1" as="geometry">
